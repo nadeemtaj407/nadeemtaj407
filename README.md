@@ -1,9 +1,5 @@
 ## Hi everyone   <img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>I am Nadeem Taj.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadeemtaj407" alt="nadeemtaj407" /></a> </p>
-
-
-
 
 <div align="center">
 
