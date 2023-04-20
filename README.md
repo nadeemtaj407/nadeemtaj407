@@ -1,5 +1,8 @@
 ## Hi everyone   <img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>I am Nadeem Taj.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadeemtaj407" alt="nadeemtaj407" /></a> </p>
+
+
 
 
 <div align="center">
@@ -21,12 +24,13 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
  <img align="center"  height =50px src="images/skills.gif">
- <img align="center"  height =50px src="images/skills.gif">Stack I Work With
-
+<img align="center"  height =50px src="images/skills.gif"><b>Stack I work with <hr></b>
 
 <br>
 
 <p  align="center">
+  
+ 
 
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
   </p>
@@ -44,7 +48,7 @@
   &nbsp;
 <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
   &nbsp;
-<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="25"/>  
  </p>
  
  <p  align="center">
@@ -63,7 +67,7 @@
 </p>
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" height="25">
 &nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 &nbsp;
@@ -76,3 +80,8 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 
 </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeemtaj407&show_icons=true&locale=en" alt="nadeemtaj407" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemtaj407&" alt="nadeemtaj407" /></p>
