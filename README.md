@@ -12,7 +12,7 @@
 - 🤔&nbsp;Exploring new technologies and developing programming insights.
 - 🧠&nbsp;I'am currently learning about Cloud AWS .
 - 📊&nbsp;I'am Gooogle Certified Data Analyst.
-- 🌟&nbsp;I'am passionate about Data and it's emerging technologies.
+- 🌟&nbsp;I'am passionate about Cloud computing and it's emerging technologies.
 - ❤️‍&nbsp;Ask me about anything i will be always happy to help. 
 <br>
 
